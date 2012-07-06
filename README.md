@@ -1,7 +1,7 @@
 # audiolib-tracker.js
 ## Overview
 
-audiolib-tracker.js is an audio-tracker built with the best practices of audiolib.js (buffer-based, uicontrols, etc...). This library is currently a work in progress.
+audiolib-tracker.js is an audio-tracker built using the best practices of audiolib.js (buffer-based, uicontrols, etc...). This library is currently a work in progress.
 
 ## Example usage
 
